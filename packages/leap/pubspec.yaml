@@ -14,7 +14,7 @@ dependencies:
   flutter:
     sdk: flutter
   pathxp: ^0.4.0
-  tiled: ^0.10.1
+  tiled: ^0.11.0
 
 dev_dependencies:
   flame_lint: ^1.1.1
